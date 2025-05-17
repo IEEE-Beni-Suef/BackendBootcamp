@@ -1,0 +1,6 @@
+@IEEEProject_HostAddress = http://localhost:5287
+
+GET {{IEEEProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

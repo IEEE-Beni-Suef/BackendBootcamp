@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\reposatory\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:reposatory\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\migrations\\20250517163926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:migrations\\20250517163926_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\ireposatory\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:ireposatory\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\result\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:result\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\ieeeproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:ieeeproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|c:\\users\\dubai_key\\source\\repos\\ieeeproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C6B05E-F91C-4C80-AA66-9CE9ADD11915}|IEEEProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250517163926_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Migrations\\20250517163926_mig1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250517163926_mig1.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Migrations\\20250517163926_mig1.cs",
+              "RelativeToolTip": "Migrations\\20250517163926_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:39:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Result\\OperationResult.cs",
+              "RelativeDocumentMoniker": "Result\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Result\\OperationResult.cs",
+              "RelativeToolTip": "Result\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:11:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:36:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\IReposatory\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "IReposatory\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\IReposatory\\IProductRepo.cs",
+              "RelativeToolTip": "IReposatory\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:22:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Reposatory\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Reposatory\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Reposatory\\ProductRepo.cs",
+              "RelativeToolTip": "Reposatory\\ProductRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:18:21.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Controllers\\Products.cs",
+              "RelativeDocumentMoniker": "Controllers\\Products.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Controllers\\Products.cs",
+              "RelativeToolTip": "Controllers\\Products.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:06:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:52:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:40:07.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\Entity\\Product.cs",
+              "RelativeToolTip": "Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:37:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEEEProject.csproj",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\IEEEProject.csproj",
+              "RelativeDocumentMoniker": "IEEEProject.csproj",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\IEEEProject.csproj",
+              "RelativeToolTip": "IEEEProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T14:37:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DUBAI_KEY\\source\\repos\\IEEEProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T14:32:50.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
